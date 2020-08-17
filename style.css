@@ -271,8 +271,10 @@ h2 {
 }
 
 
-.item__delete {
+.item {
     /* float: left; */
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .right{
